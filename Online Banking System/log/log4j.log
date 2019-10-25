@@ -1,0 +1,31 @@
+2019-09-06 11:22:46 INFO  TrainerDaoImpl:34 - Preparing query to execute
+2019-09-06 11:22:46 INFO  TrainerDaoImpl:49 - Search succesful
+2019-09-06 11:22:46 INFO  TrainerDaoImpl:53 - Returning DataSet
+2019-09-06 11:23:13 INFO  TrainerDaoImpl:34 - Preparing query to execute
+2019-09-06 11:23:13 INFO  TrainerDaoImpl:49 - Search succesful
+2019-09-06 11:23:13 INFO  TrainerDaoImpl:53 - Returning DataSet
+2019-09-06 11:31:26 ERROR TrainerServiceImpl:31 - InvalidInputException occurred
+2019-09-06 11:32:54 INFO  TrainerDaoImpl:35 - Preparing query to execute
+2019-09-06 11:32:54 INFO  TrainerDaoImpl:53 - Search succesful
+2019-09-06 11:32:55 INFO  TrainerDaoImpl:58 - Returning DataSet
+2019-09-06 11:47:12 INFO  TrainerDaoImpl:36 - Preparing query to execute
+2019-09-06 11:47:12 INFO  TrainerDaoImpl:54 - Search succesful
+2019-09-06 11:47:12 INFO  TrainerDaoImpl:59 - Returning DataSet
+2019-09-06 11:48:09 INFO  TrainerDaoImpl:36 - Preparing query to execute
+2019-09-06 11:48:09 INFO  TrainerDaoImpl:54 - Search succesful
+2019-09-06 11:48:09 INFO  TrainerDaoImpl:59 - Returning DataSet
+2019-09-06 11:48:58 INFO  TrainerDaoImpl:36 - Preparing query to execute
+2019-09-06 11:48:58 INFO  TrainerDaoImpl:54 - Search succesful
+2019-09-06 11:48:58 INFO  TrainerDaoImpl:59 - Returning DataSet
+2019-09-06 11:49:40 INFO  TrainerDaoImpl:36 - Preparing query to execute
+2019-09-06 11:49:40 INFO  TrainerDaoImpl:54 - Search succesful
+2019-09-06 11:49:40 INFO  TrainerDaoImpl:59 - Returning DataSet
+2019-09-06 11:52:05 INFO  TrainerDaoImpl:36 - Preparing query to execute
+2019-09-06 11:52:05 INFO  TrainerDaoImpl:54 - Search succesful
+2019-09-06 11:52:05 INFO  TrainerDaoImpl:59 - Returning DataSet
+2019-09-06 11:52:37 INFO  TrainerDaoImpl:36 - Preparing query to execute
+2019-09-06 11:52:37 INFO  TrainerDaoImpl:54 - Search succesful
+2019-09-06 11:52:37 INFO  TrainerDaoImpl:59 - Returning DataSet
+2019-09-06 11:53:43 INFO  TrainerDaoImpl:36 - Preparing query to execute
+2019-09-06 11:53:43 INFO  TrainerDaoImpl:54 - Search succesful
+2019-09-06 11:53:43 INFO  TrainerDaoImpl:59 - Returning DataSet
